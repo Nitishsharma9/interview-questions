@@ -42,7 +42,6 @@
     return product2;
   }
   ```
-  **View on Codepen:** https://codepen.io/kennymkchan/pen/LxoMvm?editors=0012
 
 <a name="array--consecutive--sum"></a><a name="1.2"></a>
 - **[1.2](#array--consecutive--sum) Being told that an unsorted array contains (n - 1) of n consecutive numbers (where the bounds are defined), find the missing number in `O(n)` time**
@@ -73,7 +72,6 @@
     return theoreticalSum - sumOfIntegers;
   }
   ```
-  **View on Codepen:** http://codepen.io/kennymkchan/pen/rjgoXw?editors=0012
 
 <a name="array--unique"></a><a name="1.3"></a>
 - **[1.3](#array--unique) Removing duplicates of an array and returning an array of only unique elements**
@@ -103,7 +101,6 @@
     return unique;
   }
   ```
-  **View on Codepen:** http://codepen.io/kennymkchan/pen/ZLNwze?editors=0012
 
 <a name="array--largest-difference"></a><a name="1.4"></a>
 - **[1.4](#array--largest-difference) Given an array of integers, find the largest difference between two elements such that the element of lesser value must come before the greater element**
@@ -141,7 +138,6 @@
     return currentMaxDifference;
   }
   ```
-  **View on Codepen:** http://codepen.io/kennymkchan/pen/MJdLWJ?editors=0012
 
 <a name="array--product-other-than-itself"></a><a name="1.5"></a>
 - **[1.5](#array--product-other-than-itself) Given an array of integers, return an output array such that output[i] is equal to the product of all the elements in the array other than itself. (Solve this in O(n) without division)**
@@ -179,7 +175,6 @@
     return output;
   }
   ```
-  **View on Codepen:** http://codepen.io/kennymkchan/pen/OWYdJK?editors=0012
 
 <a name="array--intersection"></a><a name="1.6"></a>
 - **[1.6](#array--intersection) Find the intersection of two arrays. An intersection would be the common elements that exists within both arrays. In this case, these elements should be unique!**
@@ -214,7 +209,6 @@
     // Time complexity O(n), Space complexity O(n)
   }
   ```
-  **View on Codepen:** http://codepen.io/kennymkchan/pen/vgwbEb?editors=0012
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -235,7 +229,6 @@
     return string.split(separator).reverse().join(separator);
   }
   ```
-  **View on Codepen:** http://codepen.io/kennymkchan/pen/VPOONZ?editors=0012
 
 <a name="string--anagram"></a><a name="2.2"></a>
 - **[2.2](#string--anagram) Given two strings, return true if they are anagrams of one another**
@@ -258,7 +251,6 @@
     return a === b;
   }
   ```
-  **View on Codepen:** http://codepen.io/kennymkchan/pen/NdVVVj?editors=0012
 
 <a name="string--palindrome"></a><a name="2.3"></a>
 - **[2.3](#string--palindrome) Check if a given string is a palindrome**
@@ -275,7 +267,6 @@
     return lettersOnly === lettersOnly.split("").reverse().join("");
   }
   ```
-  **View on Codepen:** http://codepen.io/kennymkchan/pen/xgNNNB?editors=0012
 
 <a name="string--isIsomorphic"></a><a name="2.3"></a>
 - **[2.3](#string--palindrome) Check if a given string is a isomorphic**
@@ -325,7 +316,6 @@
     return true;
   }
   ```
-  **View on Codepen:** http://codepen.io/kennymkchan/pen/mRZgaj?editors=0012
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -356,7 +346,6 @@
     return stackOutput.pop();
   }
   ```
-  **View on Codepen:** http://codepen.io/kennymkchan/pen/mRYYZV?editors=0012
 
 <a name="stack-queue--parentheses-balancing"></a><a name="3.2"></a>
 - **[3.2](#stack-queue--parentheses-balancing) Create a function that will evaluate if a given expression has balanced parentheses -- Using stacks**
@@ -395,7 +384,6 @@
     return true;
   }
   ```
-  **View on Codepen:** http://codepen.io/kennymkchan/pen/egaawj?editors=0012
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -425,7 +413,6 @@
     }
   }
   ```
-  **View on Codepen:** http://codepen.io/kennymkchan/pen/OWYYKb?editors=0012
 
 <a name="recursion--binary-search"></a><a name="4.2"></a>
 - **[4.2](#recursion--binary-search) Write a recursive function that performs a binary search**
@@ -445,7 +432,6 @@
     }
   }
   ```
-  **View on Codepen:** http://codepen.io/kennymkchan/pen/ygWWmK?editors=0012
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -479,7 +465,6 @@
     return (number !== 0) && ((number & (number - 1)) === 0);
   }
   ```
-  **View on Codepen:** http://codepen.io/kennymkchan/pen/qRGGeG?editors=0012
 
 **[⬆ back to top](#table-of-contents)**
 
