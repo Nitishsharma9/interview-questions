@@ -1,4 +1,4 @@
-# interview-questions
+
 # Interview Algorithm Questions in Javascript() {...}
 *A mostly reasonable collection of technical software development interview questions solved in Javascript in ES5 and ES6*
 
